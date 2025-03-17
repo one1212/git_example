@@ -20,16 +20,12 @@ package org.example;
 
 class Main {
     public static void main(String[] args) {
-        System.out.println("안녕하세요.");
-        System.out.println("안녕하세요.");
-        System.out.println("안녕하세요.");
-        System.out.println("안녕하세요.");
-        System.out.println("안녕하세요.");
-        System.out.println("안녕하세요.");
-        System.out.println("안녕하세요.");
-        System.out.println("안녕하세요.");
-        System.out.println("안녕하세요.");
-        System.out.println("안녕하세요.");
-        // System.out.println();
+        System.out.println("안녕하세요.1");
+        System.out.println("안녕하세요.2");
+        System.out.println("안녕하세요.3");
+        System.out.println("안녕하세요.4");
+        System.out.println("안녕하세요.5");
+        System.out.println("안녕하세요.6");
+        System.out.println("안녕하세요.7");
     }
 }
